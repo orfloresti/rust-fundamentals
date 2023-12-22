@@ -8,3 +8,8 @@
 ## Run 
 `cargo run`
 
+## Check 
+`cargo check`
+
+## Build release
+`cargo build --release`
