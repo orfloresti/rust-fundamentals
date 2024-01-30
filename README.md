@@ -6,5 +6,5 @@ Rust fundamentals based on the book
 
 Google Rust
 
-(Welcome to Comprehensive Rust)[https://google.github.io/comprehensive-rust/index.html]
+[Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html)
 
